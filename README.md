@@ -1,14 +1,14 @@
-# 基于Springboot的校园疫情防控系统登录
+# 基于SSM的新闻管理系统
 
-# Springboot-002
+# SSM-026
 
 ### 技术栈
 
-Springboot mybatisplus vue
+ssm mybatis jsp
 
 ## 数据库
 
-mysql (18张表)
+mysql (7张表)
 
 
 
@@ -47,7 +47,7 @@ mysql (18张表)
 ### 前台
 
 ```
-http://localhost:8080/springbootm94q1/front/index.html#/login
+http://localhost:8080/index.jsp
 
 账号 学号1
 密码 123456
@@ -56,8 +56,8 @@ http://localhost:8080/springbootm94q1/front/index.html#/login
 ### 后台
 
 ```
-http://localhost:8080/springbootm94q1/admin/dist/index.html#/login
+http://localhost:8080/houtai/index.jsp#
 
-账号 abo
-密码 abo
+账号 admin
+密码 123456
 ```
